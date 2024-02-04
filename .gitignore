@@ -45,3 +45,4 @@ jre/
 .settings/
 
 .metadata/
+.classpath
