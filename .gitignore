@@ -38,3 +38,10 @@ build/
 
 # Logs
 logging/
+
+# Ignorar a pasta JRE
+jre/
+
+.settings/
+
+.metadata/
